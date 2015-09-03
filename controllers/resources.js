@@ -1,3 +1,4 @@
+// can do a quick find and replace on resource to change
 var Resource = require('../models/Resource');
 
 var index = function(req, res, next) {
